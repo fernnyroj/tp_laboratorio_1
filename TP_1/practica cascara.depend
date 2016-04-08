@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1460122914 source:c:\users\admin\desktop\tps prgramacion 1\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1460087722 c:\users\admin\desktop\tps prgramacion 1\tp_1_cascara\funciones.h
+
+1460122880 source:c:\users\admin\desktop\tps prgramacion 1\tp_1_cascara\funciones.c
+
