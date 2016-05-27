@@ -3,7 +3,8 @@
 #include <string.h>
 #include <ctype.h>
 #include "funciones.h"
-#define CANTIDAD 20
+#define CANTIDAD 2
+
 
 int main()
 {
@@ -22,11 +23,11 @@ int main()
         auxiliarMenu=menu("\t1- Agregar persona\n \t2- Borrar persona\n \t3- Imprimir lista ordenada por  nombre\n \t4- Imprimir grafico de edades\n \t5- Salir\n",1,5);
         switch(auxiliarMenu)
             {
-                case 1: while(cargarPersona=='s')
-                {
+                case 1:
+
 
                     auxEspacio=estadoLibre(datosPersonas,CANTIDAD);
-                    if (auxEspacio>=0)
+                    if (auxEspacio>=0 && auxEspacio)
                     {
                         addPersona(datosPersonas,CANTIDAD);
 
@@ -35,10 +36,6 @@ int main()
                     {
                         printf("No hay espacios disponibles \n");
                     }
-                    printf("Desea agregar otra persona s/n \n");
-                    scanf("%s",&cargarPersona);
-
-                }
                     flag=1;
                     system("pause");
                     system("cls");
