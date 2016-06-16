@@ -1,0 +1,46 @@
+id,dni,first_name,last_name,sector, is_empty.
+1,32744234,Eric,Knight, administracion,false.
+2,30987654,Annie,Castillo,contabilidad,true.
+3,32744234,Eric,Knight, administracion,false.
+4,35678876,Lawrence,Payne,administracion,true.
+5,33456654,Sara,Duncan,limpieza,true.
+6,27890098,Alan,Webb,limpieza,true.
+7,32744234,Eric,Knight, administracion,false.
+8,32744234,Eric,Knight, administracion,false.
+9,23456654,Gary,Sanchez,administracion,true.
+10,32744234,Eric,Knight, administracion,false.
+11,32744234,Eric,Knight, administracion,false.
+12,32744242,fernanda,rojas,precidenta,true.
+13,32744234,Eric,Knight, administracion,false.
+14,34196247,Damian,Mompardo, administracion,true.
+15,32744234,Eric,Knight, administracion,false.
+16,32744234,Eric,Knight, administracion,false.
+17,24567987,Roy,Gardner,recursosHumanos,true.
+18,23456654,Patricia,Mason,recursosHumanos,true.
+19,30765432,Samuel,Chapman,gerencia,true.
+20,29876543,Phillip,Gardner,gerencia,true.
+21,24567987,Diana,Young,administracion,true.
+22,32744234,Eric,Knight, administracion,false.
+23,32744234,Eric,Knight, administracion,false.
+24,31456789,Annie,Ellis,recursosHumanos,true.
+25,32744234,Eric,Knight, administracion,false.
+26,24567764,Bonnie,Bailey,limpieza,true.
+27,20987432,Keith,Hicks,administracion,true.
+28,32456789,Scott,Peters,gerencia,true.
+29,32744234,Eric,Knight, administracion,false.
+30,32744234,Eric,Knight, administracion,false.
+31,23456654,Tammy,Williamson,gerencia,true.
+32,34567890,Stephen,Hayes,limpieza,true.
+33,23456653,Betty,Mason,recursosHumanos,true.
+34,32456780,Robert,Green,administrcion,true.
+35,32744234,Eric,Knight, administracion,false.
+36,25678975,Gregory,Hart,operario,true.
+37,32744234,Eric,Knight, administracion,false.
+38,36907654,Billy,Riley,operario,true.
+39,32744234,Eric,Knight, administracion,false.
+40,32744234,Eric,Knight, administracion,false.
+4131567987,Judy,Wagner,operario,true.
+42,32744234,Eric,Knight, administracion,false.
+43,29876543,Walter,Kelly,operario,true.
+44,25678098,Stephen,George,operario,true.
+45,32744234,Eric,Knight, administracion,false.

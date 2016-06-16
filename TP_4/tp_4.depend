@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1466043991 source:c:\users\admin\desktop\tp_4\array.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"array.h"
+
+1465961048 c:\users\admin\desktop\tp_4\array.h
+
+1466045355 source:c:\users\admin\desktop\tp_4\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"array.h"
+	"employee.h"
+
+1466045409 source:c:\users\admin\desktop\tp_4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	"array.h"
+	"employee.h"
+
+1466042041 c:\users\admin\desktop\tp_4\employee.h
+
